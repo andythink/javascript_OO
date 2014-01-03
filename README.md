@@ -1,6 +1,8 @@
 javascript_OO
 =============
 
-object-oriented for javascript
+本代码仓库包含如下内容，以及实现过程中思考的路径
 
-实现JavaScript完善的面向对象继承机制
+1.实现JavaScript完善的面向对象继承机制
+
+2.考虑整个对象继承链条，不仅考虑当前对象，对整个链条上的所有对象想进行克隆
